@@ -1,0 +1,281 @@
+body{
+    background: blue;
+}
+
+.hero {
+    color: blue;
+    font-size: 45px;  
+    
+     border-top: 1px solid transparent;
+}
+.hero-content{
+       
+     background-image: url("img/placa.jpg");
+      background-size: cover ;
+    text-align: center;
+    color: yellow;
+    margin-top: 50px;
+    font-family: Arial;
+}
+.hero-content h1{
+     text-transform: uppercase;
+    font-size: 50px;
+    text-shadow: 3px 3px 2px black;
+}
+.hero-content p{
+    text-transform: uppercase;
+      text-shadow: 3px 3px 2px black;
+}
+
+.hero nav ul {
+    text-align: right;
+    margin: 20px 50px 0 0;
+}
+.hero nav li{
+    display: inline-block;
+    list-style: none;
+    padding: 1px;
+    
+    border-radius: 10px;
+    
+}
+
+.hero nav a{
+    background: rgb(0,0,0, 0.5);
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+      border-radius: 10px;
+}
+
+
+.hero nav a:hover{
+    background: rgb(0,0,0, 1);
+    display: block;
+    padding: 11px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+     border-radius: 10px;
+}
+.eletronicaBasica{
+    border: 2px solid black ;
+      font-size: 15px;
+    font-family: Arial;
+    color: black;
+     background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 150px;
+}
+
+.eletronicaDigital{
+    border: 2px solid black ;
+      font-size: 15px;
+    font-family: Arial;
+    color: black;
+     background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 150px;
+}
+
+.automacao{
+    border: 2px solid black ;
+      font-size: 15px;      
+    font-family: Arial;
+    color: black;
+     background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 100px;
+
+} 
+
+.eletronicaBasica a:hover{
+    border: 2px solid black ;
+    font-family: Arial;
+    color: black;
+     background-color: red;
+ 
+}
+
+.eletronicaBasica a{
+    background: blue;
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    border: 2px solid black ;
+      border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.eletronicaDigital a{
+    background: blue;
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    border: 2px solid black ;
+      border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.eletronicaDigital a:hover{
+    border: 2px solid black ;
+    font-family: Arial;
+    color: black;
+     background-color: red;
+ 
+}
+
+.automacao a{
+    background: blue;
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    border: 2px solid black ;
+      border-radius: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.automacao a:hover{
+    border: 2px solid black ;
+    font-family: Arial;
+    color: black;
+     background-color: red;
+ 
+}
+
+.quemSou{
+    border: 2px solid black ;
+      font-size: 20px;
+    font-family: Arial;
+    color: black;
+     background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 120px;
+}
+#projetos{
+  img{
+    max-width: 50%;
+    height: auto;    
+    margin-left: 25%    ;
+       border: 2px solid black ;
+    border-radius: 5px;
+    
+  }
+}
+
+footer {
+     text-align: left;
+       background-color: black;
+    font-size: 20px;
+    font-family: Arial;
+    color: white;
+     border: 2px solid black transparent;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 150px;
+      text-decoration: none;
+    
+    }
+    a:link {
+        text-decoration: none;
+        margin-left: 10px;
+        }
+
+        .capitulos h1{
+          color: white;
+          font-family: Arial;
+          font-size: 30px;
+           text-transform: uppercase;
+           text-decoration: underline;
+        }
+        .videos li{
+    background: white;
+    display: block;
+    padding: 10px;
+    color: black;  
+    border: 2px solid black ;
+      border-radius: 5px;
+       font-family: Arial;
+       font-weight: 700;
+    text-decoration: none;
+    
+    font-size: 25px;
+    margin-top: 10px;
+    max-width: 60%;
+    
+        }
+
+        .videos li :hover{       
+  
+     color: black;
+     border: 2px solid black ;
+      border-radius: 5px;
+     background-color: yellow;
+    
+      
+        }
+
+        .aulas a {
+   background: white;
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 2px;
+      border-radius: 10px;
+    
+        }
+
+        .aulas a:hover{
+    border: 2px solid black ;
+    font-family: Arial;
+    color: black;
+     background-color: red;
+        }
+
+        .aulas li{
+    border: 2px solid black ;
+      font-size: 30px;
+    font-family: Arial;
+    color: black;
+     background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 150px;
+}
+
+         .aula1  {
+            background: white;
+    display: inline-block;
+    padding: 20px;
+        color: black;       
+      border-radius: 5px;
+       font-family: Arial;
+       font-weight: 700;
+    text-decoration: none;
+    
+    font-size: 25px;
+    margin-top: 10px;
+    max-width: 100%;  
+        }
