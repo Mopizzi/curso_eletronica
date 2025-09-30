@@ -301,7 +301,7 @@ footer {
     background: yellow;
     display: inline-block;
     padding: 5px;
-    color: white;
+    color: black;
     border: 2px solid black ;
       border-radius: 10px;
     text-decoration: none;
@@ -313,7 +313,7 @@ footer {
 .aula1 a:hover{
     border: 2px solid black ;
     font-family: Arial;
-    color: black;
+    color: white;
      background-color: red;
  
 }
@@ -322,7 +322,7 @@ footer {
     background: yellow;
     display: inline-block;
     padding: 5px;
-    color: white;
+    color: black;
     border: 2px solid black ;
       border-radius: 10px;
     text-decoration: none;
@@ -334,10 +334,11 @@ footer {
 .aula2 a:hover{
     border: 2px solid black ;
     font-family: Arial;
-    color: black;
+    color: white;
      background-color: red;
  
 }
+
 
 
 
