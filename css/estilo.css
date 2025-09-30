@@ -4,7 +4,7 @@ body{
 
 .hero {
     color: white;
-    font-size: 45px;  
+    font-size: 30px;  
     
      border-top: 1px solid transparent;
 }
@@ -280,5 +280,6 @@ footer {
     max-width: 100%;  
 
         }
+
 
 
