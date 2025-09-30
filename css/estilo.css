@@ -107,7 +107,7 @@ body{
 }
 
 .eletronicaBasica a{
-    background: blue;
+    background: yellow;
     display: inline-block;
     padding: 5px;
     color: white;
@@ -120,7 +120,7 @@ body{
 }
 
 .eletronicaDigital a{
-    background: blue;
+    background: yellow;
     display: inline-block;
     padding: 5px;
     color: white;
@@ -141,7 +141,7 @@ body{
 }
 
 .automacao a{
-    background: blue;
+    background: yellow;
     display: inline-block;
     padding: 5px;
     color: white;
@@ -298,7 +298,7 @@ footer {
         }
 
 .aula1 a{
-    background: blue;
+    background: yellow;
     display: inline-block;
     padding: 5px;
     color: white;
@@ -319,7 +319,7 @@ footer {
 }
 
 .aula2 a{
-    background: blue;
+    background: yellow;
     display: inline-block;
     padding: 5px;
     color: white;
@@ -338,6 +338,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
