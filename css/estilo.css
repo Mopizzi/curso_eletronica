@@ -281,6 +281,23 @@ footer {
 
         }
 
+.aula2  {
+            background: white;
+    display: inline-block;
+    padding: 20px;
+        color: black;       
+      border-radius: 5px;
+       font-family: Arial;
+       font-weight: 700;
+    text-decoration: none;
+    
+    font-size: 25px;
+    margin-top: 10px;
+    max-width: 100%;  
+
+        }
+
+
 
 
 
