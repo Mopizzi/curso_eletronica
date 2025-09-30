@@ -3,7 +3,7 @@ body{
 }
 
 .hero {
-    color: blue;
+    color: white;
     font-size: 45px;  
     
      border-top: 1px solid transparent;
@@ -280,3 +280,4 @@ footer {
     max-width: 100%;  
 
         }
+
