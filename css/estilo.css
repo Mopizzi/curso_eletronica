@@ -10,7 +10,7 @@ body{
 }
 .hero-content{
        
-     background-image: url("img/circuito_anal.jpg");
+     background-color: black;
       background-size: contain ;
     text-align: center;
     color: white;
@@ -338,6 +338,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
