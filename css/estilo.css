@@ -21,10 +21,7 @@ body{
      font-size: 20px;
     
 }
-    img {
-      float: left; /* ou right, para alinhar à direita */
-      margin-right: 90px; /* Espaço entre a imagem e o texto */
-    }
+   
 
 .hero-content h1{
      text-transform: uppercase;
@@ -340,6 +337,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
