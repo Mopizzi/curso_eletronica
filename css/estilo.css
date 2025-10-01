@@ -23,7 +23,7 @@ body{
 }
     img {
       float: left; /* ou right, para alinhar à direita */
-      margin-right: 70px; /* Espaço entre a imagem e o texto */
+      margin-right: 90px; /* Espaço entre a imagem e o texto */
     }
 
 .hero-content h1{
@@ -342,6 +342,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
