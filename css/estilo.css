@@ -3,8 +3,9 @@ body{
 }
 
 .hero {
+    display: block;
     color: white;
-    font-size: 20px;  
+    font-size: 15px;  
     
      border-top: 1px solid transparent;
 }
@@ -19,7 +20,7 @@ body{
 }
 .hero-content h1{
      text-transform: uppercase;
-    font-size: 20px;
+    font-size: 12px;
     text-shadow: 3px 3px 2px black;
 }
 .hero-content p{
@@ -47,7 +48,7 @@ body{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 10px;
     letter-spacing: 2px;
       border-radius: 10px;
 }
@@ -60,13 +61,13 @@ body{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 10px;
     letter-spacing: 2px;
      border-radius: 10px;
 }
 .eletronicaBasica{
     border: 2px solid black ;
-      font-size: 15px;
+      font-size: 10px;
     font-family: Arial;
     color: black;
      background-color: white;
@@ -77,7 +78,7 @@ body{
 
 .eletronicaDigital{
     border: 2px solid black ;
-      font-size: 15px;
+      font-size: 10px;
     font-family: Arial;
     color: black;
      background-color: white;
@@ -88,7 +89,7 @@ body{
 
 .automacao{
     border: 2px solid black ;
-      font-size: 15px;      
+      font-size: 10px;      
     font-family: Arial;
     color: black;
      background-color: white;
@@ -115,7 +116,7 @@ body{
       border-radius: 10px;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 10px;
     letter-spacing: 2px;
 }
 
@@ -128,7 +129,7 @@ body{
       border-radius: 10px;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 10px;
     letter-spacing: 2px;
 }
 
@@ -149,7 +150,7 @@ body{
       border-radius: 10px;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 .automacao a:hover{
@@ -162,7 +163,7 @@ body{
 
 .quemSou{
     border: 2px solid black ;
-      font-size: 20px;
+      font-size: 15px;
     font-family: Arial;
     color: black;
      background-color: white;
@@ -184,7 +185,7 @@ body{
 footer {
      text-align: left;
        background-color: black;
-    font-size: 20px;
+    font-size: 15px;
     font-family: Arial;
     color: white;
      border: 2px solid black transparent;
@@ -202,7 +203,7 @@ footer {
         .capitulos h1{
           color: white;
           font-family: Arial;
-          font-size: 20px;
+          font-size: 15px;
            text-transform: uppercase;
            text-decoration: underline;
         }
@@ -217,9 +218,9 @@ footer {
        font-weight: 700;
     text-decoration: none;
     
-    font-size: 20px;
+    font-size: 10px;
     margin-top: 10px;
-    max-width: 60%;
+    max-width: 80%;
     
         }
 
@@ -240,7 +241,7 @@ footer {
     color: black;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 10px;
     letter-spacing: 2px;
       border-radius: 10px;
     
@@ -255,7 +256,7 @@ footer {
 
         .aulas li{
     border: 2px solid black ;
-      font-size: 15px;
+      font-size: 10px;
     font-family: Arial;
     color: black;
      background-color: white;
@@ -272,12 +273,10 @@ footer {
       border-radius: 5px;
        font-family: Arial;
        font-weight: 700;
-    text-decoration: none;
-    
-    font-size: 15px;
+    text-decoration: none;    
+    font-size: 10px;
     margin-top: 10px;
-    max-width: 100%;  
-
+    max-width: 100%; 
         }
 
 .aula2  {
@@ -288,12 +287,10 @@ footer {
       border-radius: 5px;
        font-family: Arial;
        font-weight: 700;
-    text-decoration: none;
-    
-    font-size: 15px;
+    text-decoration: none;    
+    font-size: 10px;
     margin-top: 10px;
     max-width: 100%;  
-
         }
 
 .aula1 a{
@@ -337,6 +334,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
