@@ -46,8 +46,8 @@ body{
 
 .hero nav ul {
     text-align: right;
-    margin: 10px 50px 0 0;
-    display: flex;
+    margin: 10px 20px 0 0;
+    
 }
 .hero nav li{
     display: inline-block;
@@ -350,6 +350,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
