@@ -162,7 +162,7 @@ body{
     background: yellow;
     display: inline-block;
     padding: 5px;
-    color: white;
+    color: black;
     border: 2px solid black ;
       border-radius: 10px;
     text-decoration: none;
@@ -350,6 +350,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
