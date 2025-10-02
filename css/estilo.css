@@ -2,6 +2,18 @@ body{
     background: lightblue;
 }
 
+  header {
+        display: flex; /* Alinha os filhos (logo e nav) na mesma linha */
+        align-items: center; /* Alinha verticalmente ao centro */
+        justify-content: space-between; /* Espaço entre o logo e o menu */
+        padding: 10px;
+        background-color: #f0f0f0;
+    }
+
+    header img {
+        margin-right: 20px; /* Espaço à direita do logo */
+    }
+
 .hero {
     display: block;
     color: white;
@@ -337,6 +349,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
