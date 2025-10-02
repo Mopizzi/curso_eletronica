@@ -84,7 +84,7 @@ body{
 }
 .eletronicaBasica{
     border: 2px solid black ;
-      font-size: 10px;
+      font-size: 15px;
     font-family: Arial;
     color: black;
      background-color: white;
@@ -95,7 +95,7 @@ body{
 
 .eletronicaDigital{
     border: 2px solid black ;
-      font-size: 10px;
+      font-size: 15px;
     font-family: Arial;
     color: black;
      background-color: white;
@@ -106,7 +106,7 @@ body{
 
 .automacao{
     border: 2px solid black ;
-      font-size: 10px;      
+      font-size: 15px;      
     font-family: Arial;
     color: black;
      background-color: white;
@@ -351,6 +351,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
