@@ -50,7 +50,7 @@ body{
     
 }
 .hero nav li{
-    display: flex;
+    display: block;
     list-style: none;
     padding: 1px;
     
@@ -350,6 +350,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
