@@ -6,12 +6,12 @@ body{
         display: flex; /* Alinha os filhos (logo e nav) na mesma linha */
         align-items: center; /* Alinha verticalmente ao centro */
         justify-content: space-between; /* Espaço entre o logo e o menu */
-        padding: 50px;
+        padding: 10px;
         background-color: blue;
     }
 
     header img {
-        margin-right: 20px; /* Espaço à direita do logo */
+        margin-right: 50px; /* Espaço à direita do logo */
     }
 
 .hero {
@@ -349,6 +349,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
