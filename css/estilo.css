@@ -253,7 +253,7 @@ footer {
         }
 
         .aulas a {
-   background: white;
+   background: yellow;
     display: inline-block;
     padding: 10px;
     color: black;
@@ -261,6 +261,7 @@ footer {
     text-transform: uppercase;
     font-size: 10px;
     letter-spacing: 2px;
+     border: 2px solid black ;
       border-radius: 10px;
     
         }
@@ -268,7 +269,7 @@ footer {
         .aulas a:hover{
     border: 2px solid black ;
     font-family: Arial;
-    color: black;
+    color: white;
      background-color: red;
         }
 
@@ -276,7 +277,7 @@ footer {
     border: 2px solid black ;
       font-size: 20px;
     font-family: Arial;
-    color: green;
+    color: black;
      background-color: white;
     border-radius: 5px;
     padding: 10px;
@@ -352,6 +353,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
