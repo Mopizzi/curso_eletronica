@@ -221,7 +221,7 @@ footer {
         .capitulos h1{
           color: white;
           font-family: Arial;
-          font-size: 15px;
+           font-weight: 700;
            text-transform: uppercase;
            text-decoration: underline;
         }
@@ -372,6 +372,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
