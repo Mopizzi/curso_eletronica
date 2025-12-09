@@ -1,5 +1,5 @@
 body{
-    background: lightblue;
+    background: yellow;
      border-radius: 5px;
 }
 
@@ -8,7 +8,7 @@ body{
         align-items: center; /* Alinha verticalmente ao centro */
         justify-content: space-between; /* Espaço entre o logo e o menu */
         padding: 10px;
-        background-color: yellow;
+        background-color: blue;
     }
 
     header img {
@@ -373,6 +373,7 @@ footer {
      background-color: red;
  
 }
+
 
 
 
