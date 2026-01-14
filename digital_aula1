@@ -32,10 +32,10 @@
             </div>
 
 
-        <div class="aulas">
-<br>
- 		<h1>Aulas:</h1>           
-		<li>Aula 1 - Introdução à Eletrônica Digital<a href="digital_aula1.html">ACESSAR</a></li>
+        <div class="aula1">
+
+ 		          
+		<h1>Aula 1 - Introdução à Eletrônica Digital</h1>
 				 
 				<br><img src="css/img/ci.png"width="100" height="100"  ><br><br>
 				 <p>APLICAÇÕES DOS DIODOS</p><P>Suas principais aplicações são:</P><li>Retificação de corrente: Convertem corrente alternada (AC) em corrente contínua (DC) pulsante, em fontes de alimentação de equipamentos eletrônicos.</li><li>Proteção de circuitos: Impedem que a corrente flua na direção errada, protegendo  danos ao circuito.</li><li>Emissão de luz: LEDs são um tipo de diodo que emite luz quando a corrente passa por ele. Usado em iluminção e Indicação.</li><li>Geração de energia: Células solares são um tipo de diodo fotovoltaico que converte a luz em energia elétrica.</li><li>Regulagem de tensão: os diodos Zener são usados para manter uma tensão constante em um circuito.</li><br><p>COMO FUNCIONA UM DIODO</p><P>Quando a polarização do Diodo é Direta, isto é, tem uma tensão POSITIVA aplicada no Ánodo e uma tensão  NEGATIVA aplicada no Cátodo, a junção PN "abre" e permite a passagem de corrente.</P><p>Já quando  ele é polarizado Inversamente, com uma tensão NEGATIVA aplicada no Ánodo(+) e uma tensão POSITIVA aplicada no Cátodo(-), o diodo "fecha", elevando sua resistência e bloqueando a passagem de corrente.</p><p>Tensão de Ruptura do Diodo</p><p>É a tensão reversa máxima que o diodo pode suportar antes de começar a conduzir no sentido contrário e fazer com que ele se danifique. Esse valor sempre deve ser considerado num projeto.</p><br><br><a href="eletronicaBasica.html">voltar</a></h2>
