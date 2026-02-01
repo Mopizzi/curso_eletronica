@@ -383,7 +383,7 @@ table {
 
 table th, table td {
     border: 1px solid #ddd; /* Bordas suaves */
-    padding: 12px; /* Espaçamento interno */
+    padding: 8px; /* Espaçamento interno */
     text-align: center;
 }
 
@@ -391,6 +391,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
