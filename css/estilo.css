@@ -8,7 +8,7 @@ body{
         align-items: center; /* Alinha verticalmente ao centro */
         justify-content: space-between; /* Espaço entre o logo e o menu */
         padding: 10px;
-        background-color: blue;
+        background-color: gray;
     }
 
     header img {
@@ -60,7 +60,7 @@ body{
 }
 
 .hero nav a{
-    background: rgb(0,0,0, 0.5);
+    background: rgb(0,0,0, 0.5;
     display: block;
     padding: 10px;
     color: white;
@@ -406,6 +406,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
