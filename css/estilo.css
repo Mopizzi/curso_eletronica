@@ -8,7 +8,7 @@ body{
         align-items: center; /* Alinha verticalmente ao centro */
         justify-content: space-between; /* Espaço entre o logo e o menu */
         padding: 10px;
-        background-color: white;
+        background-color: blue;
     }
 
     header img {
@@ -406,6 +406,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
