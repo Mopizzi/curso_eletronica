@@ -17,7 +17,7 @@ body{
 
 .hero {
     display: block;
-    color: white;
+    color: blue;
     font-size: 15px;  
     
      border-top: 1px solid transparent;
@@ -406,6 +406,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
