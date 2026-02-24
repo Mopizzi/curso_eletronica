@@ -201,29 +201,18 @@ body{
 
 .textoSenha{
     border: 5px solid black ;
-      font-size: 150px;      
+      font-size: 100px;      
     font-family: Roboto, Sans-serif;
     color: black;
      background-color: white;
       text-align: center;
     border-radius: 5px;
     padding: 5px;
-     margin-top: 50px;
+     margin-top: 10px;
 
 } 
 
-.numeroSenha{
-    border: 5px solid black ;
-      font-size: 200px;      
-    font-family: Arial, bold;
-    color: red;
-     background-color: white;
-      text-align: center;
-    border-radius: 5px;
-    padding: 5px;
-     margin-top: 50px;
 
-} 
 
 footer {
      text-align: left;
@@ -417,6 +406,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
