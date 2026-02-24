@@ -7,6 +7,12 @@
      <link rel="stylesheet" href="css/estilo.css">
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8525727130604709"
      crossorigin="anonymous"></script>
+	
+	 <style>
+        body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+        #contador { font-size: 48px; font-weight: bold; }
+        button { font-size: 20px; padding: 10px 20px; cursor: pointer; }
+    </style>
 </head>
 <body>
     <div id="principal">
@@ -14,11 +20,25 @@
               <nav>
             <ul>
 				
-                <li>PAINEL DE SENHAS<a href="index.html">Início</a></li>
-                  
+                <li><a href="index.html">Início</a></li>                 
                  
             </ul>
         </nav>
+			  <p id="contador">0</p>
+    <button onclick="incrementar()">Clique aqui</button>
+
+    <script>
+        // Variável que guarda o valor do contador
+        let valorContador = 0;
+
+        // Função que é chamada ao clicar no botão
+        function incrementar() {
+            valorContador++; // Aumenta o valor em 1
+            // Atualiza o HTML com o novo valor
+            document.getElementById('contador').innerText = valorContador;
+        }
+    </script>
+
 			  </header>
      
 		<div class="textoSenha">
