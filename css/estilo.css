@@ -215,7 +215,7 @@ body{
 .numeroSenha{
     border: 5px solid black ;
       font-size: 200px;      
-    font-family: montserrat, bold;
+    font-family: Arial, bold;
     color: red;
      background-color: white;
       text-align: center;
@@ -417,6 +417,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
