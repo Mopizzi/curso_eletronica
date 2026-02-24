@@ -199,6 +199,30 @@ body{
     
   }
 
+.textoSenha{
+    border: 2px solid black ;
+      font-size: 150px;      
+    font-family: Roboto, Sans-serif;
+    color: black;
+     background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 50px;
+
+} 
+
+.numeroSenha{
+    border: 2px solid black ;
+      font-size: 150px;      
+    font-family: Roboto, Sans-serif;
+    color: black;
+     background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+     margin-top: 50px;
+
+} 
+
 footer {
      text-align: left;
        background-color: black;
@@ -391,6 +415,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
