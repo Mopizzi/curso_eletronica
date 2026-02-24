@@ -200,7 +200,7 @@ body{
   }
 
 .textoSenha{
-    border: 2px solid black ;
+    border: 5px solid black ;
       font-size: 150px;      
     font-family: Roboto, Sans-serif;
     color: black;
@@ -212,10 +212,10 @@ body{
 } 
 
 .numeroSenha{
-    border: 2px solid black ;
-      font-size: 150px;      
-    font-family: Roboto, Sans-serif;
-    color: black;
+    border: 5px solid black ;
+      font-size: 200px;      
+    font-family: poppins;
+    color: red;
      background-color: white;
     border-radius: 5px;
     padding: 5px;
@@ -415,6 +415,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
