@@ -376,7 +376,7 @@ footer {
 }
 
 .textoSenha{
-    border: 10px solid black ;
+    border: 7px solid black ;
       font-size: 100px;      
     font-family: Roboto, Sans-serif;
     color:red;
@@ -584,6 +584,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
