@@ -385,6 +385,8 @@ footer {
     border-radius: 10px;
     padding: 5px;
      margin-top: 20px;
+   width: fit-content; 
+  height: auto;
 
 } 
 
@@ -582,6 +584,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
