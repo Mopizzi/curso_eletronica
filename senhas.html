@@ -36,21 +36,23 @@
 		
   <p id="contador">0</p>
     <button onclick="incrementar()">INCREMENTAR</button>
+			<audio id="meuSom" src="css/img/beep.wav"></audio>
 
     <script>
+		  var som = document.getElementById("meuSom");
+    som.play();
+		
         // Variável que guarda o valor do contador
         let valorContador = 0;
 
         // Função que é chamada ao clicar no botão
-        function incrementar() {
+        function incrementar()
+		{
+			 var som = document.getElementById("meuSom");
+    som.play();
             valorContador++; // Aumenta o valor em 1
             // Atualiza o HTML com o novo valor
             document.getElementById('contador').innerText = valorContador;
-		/*	 var som = document.getElementById("meuSom");
-    som.play(); // 3. Reproduz o som
-    
-<audio id="meuSom" src="css/img/beep.wav"></audio>*/
-
 		}
   
 </script>
