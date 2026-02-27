@@ -200,7 +200,7 @@
     
   }
 
-.palavra {
+.textoSenha {
 animation: piscaPisca 5s infinite;
  
 }
@@ -589,6 +589,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
