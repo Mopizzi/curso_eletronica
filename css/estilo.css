@@ -200,18 +200,6 @@
     
   }
 
-.textoSenha {
-animation: piscaPisca 5s infinite;
- 
-}
-@keyframes piscaPisca {
-0%: color red;
-25%: color yellow;
-50%: color green;
-75%: color blue;
-90%: color black;
-100%: color red;
-}
 
 footer {
      text-align: left;
@@ -400,8 +388,19 @@ footer {
      margin-top: 20px;
    
   height: auto;
+ animation: piscaPisca 5s infinite;
+ 
+}
+@keyframes piscaPisca {
+0%: color red;
+25%: color yellow;
+50%: color green;
+75%: color blue;
+90%: color black;
+100%: color red;
+}
 
-} 
+ 
 
 
 
@@ -597,6 +596,7 @@ table th {
     background-color: #f4f4f4; /* Fundo do cabeçalho */
     color: #333;
 }
+
 
 
 
