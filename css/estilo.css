@@ -616,7 +616,7 @@ table th {
 
 /* Efeito ao passar o mouse */
 .meu-botao:hover {
-    background-color: black ;/* Tom de azul mais escuro */
+    background-color: red ;
     transform: translateY(-2px); /* Levanta o botão levemente */
 }
 
