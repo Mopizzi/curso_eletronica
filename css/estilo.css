@@ -602,7 +602,28 @@ table th {
     color: #333;
 }
 
+.meu-botao {
+    background-color: #007bff; /* Cor de fundo azul */
+    color: #ffffff; /* Cor do texto branco */
+    font-size: 16px; /* Tamanho da fonte */
+    font-weight: bold; /* Negrito */
+    padding: 12px 24px; /* Espaçamento interno (cima/baixo e lados) */
+    border: none; /* Remove a borda padrão */
+    border-radius: 8px; /* Cantos arredondados */
+    cursor: pointer; /* Altera o cursor do mouse para mãozinha */
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Efeito suave */
+}
 
+/* Efeito ao passar o mouse */
+.meu-botao:hover {
+    background-color: #0056b3; /* Tom de azul mais escuro */
+    transform: translateY(-2px); /* Levanta o botão levemente */
+}
+
+/* Efeito ao clicar */
+.meu-botao:active {
+    transform: translateY(0); /* Volta para a posição original */
+}
 
 
 
