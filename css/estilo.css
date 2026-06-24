@@ -607,7 +607,7 @@ table th {
     color: #ffffff; /* Cor do texto branco */
     font-size: 16px; /* Tamanho da fonte */
     font-weight: bold; /* Negrito */
-    padding: 12px 24px; /* Espaçamento interno (cima/baixo e lados) */
+    padding: 24px 38px; /* Espaçamento interno (cima/baixo e lados) */
     border: none; /* Remove a borda padrão */
     border-radius: 8px; /* Cantos arredondados */
     cursor: pointer; /* Altera o cursor do mouse para mãozinha */
