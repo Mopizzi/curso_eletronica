@@ -625,7 +625,9 @@ table th {
     transform: translateY(0); /* Volta para a posição original */
 }
 
-
+.container {
+     display: flex;
+ }
 
 
 
