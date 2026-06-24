@@ -603,7 +603,7 @@ table th {
 }
 
 .meu-botao {
-    background-color: #007bff; /* Cor de fundo azul */
+    background-color: black; /* Cor de fundo azul */
     color: #ffffff; /* Cor do texto branco */
     font-size: 16px; /* Tamanho da fonte */
     font-weight: bold; /* Negrito */
