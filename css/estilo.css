@@ -625,9 +625,17 @@ table th {
     transform: translateY(0); /* Volta para a posição original */
 }
 
-.container {
-     display: flex;     
-     flex-direction: row;
+.container1 {
+     display: flex; 
+      
+     justify-content: space-around;
+    
+ }
+ .container2 {
+     display: flex; 
+      
+     justify-content: space-around;
+    
  }
  
 
